@@ -1,4 +1,4 @@
-import { SORT_OPTIONS } from "../../data/catalogueData";
+import { SORT_OPTIONS } from "../../data/CatalogueData";
 import "./CatalogueTopBar.css";
 
 export default function CatalogueTopBar({
