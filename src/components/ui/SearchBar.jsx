@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import { catalogueProducts } from "../../data/catalogueData";
+import { catalogueProducts } from "../../data/CatalogueData";
 import { featuredProducts } from "../../data/mockData";
 import "./SearchBar.css";
 
