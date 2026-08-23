@@ -12,7 +12,7 @@ import AboutPage from "./pages/AboutPage";
 import AccountPage from "./pages/AccountPage";
 import CheckoutPage from "./pages/CheckoutPage";
 import AdminPage from "./pages/AdminPage";
-import CartSidebar from "./components/cart/CartSidebar";
+import CartSidebar from "./components/Cart/CartSidebar";
 import "./styles/globals.css";
 
 function AppContent() {
