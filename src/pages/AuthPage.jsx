@@ -1,6 +1,6 @@
 import { useState } from "react";
-import LoginForm from "../components/auth/LoginForm";
-import RegisterForm from "../components/auth/RegisterForm";
+import LoginForm from "../components/Auth/LoginForm";
+import RegisterForm from "../components/Auth/RegisterForm";
 import "./AuthPage.css";
 
 export default function AuthPage({ navigate, defaultTab = "login", onLoginSuccess }) {
